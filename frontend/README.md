@@ -1,5 +1,9 @@
 # Фронтенд WebLarek.
 
+## Ссылка на GitHub-репозиторий
+-   https://github.com/MatthewKhitrov/bad-server
+-   Хитров Матвей 21 когорта
+
 ## Используемые технологии и решения
 
 - Typescript в качестве основного языка проекта

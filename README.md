@@ -1,7 +1,8 @@
 # Проектная работа "WebLarek. Плохой сервер.", спринт 17
 
 ## Ссылка на GitHub-репозиторий
-https://github.com/MatthewKhitrov/bad-server
+-   https://github.com/MatthewKhitrov/bad-server
+-   Хитров Матвей 21 когорта
 
 ## Подготовка к работе
 1. Склонировать репозиторий
