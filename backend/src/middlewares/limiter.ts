@@ -1,4 +1,4 @@
-import { rateLimit } from 'express-rate-limit'
+import  rateLimit  from 'express-rate-limit'
 import { constants } from 'http2'
 import { MAX_REQUEST_PER_MINUTE } from '../config'
 
